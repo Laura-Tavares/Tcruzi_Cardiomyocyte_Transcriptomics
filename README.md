@@ -1,8 +1,8 @@
 # *Trypanosoma cruzi* Cardiomyocyte Transcriptomics
 
 <br>
+
 Bulk RNA-seq analysis of human cardiomyocytes infected with *Trypanosoma cruzi*, using the publicly available dataset **GSE223600**.
-<br>
 <br>
 
 ## 🧬 Objective
